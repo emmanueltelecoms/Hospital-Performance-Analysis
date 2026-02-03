@@ -31,10 +31,10 @@ This project was completed as part of a qualifying assessment for an Internship 
 ##  Actionable Recommendations
 Based on the data findings, I recommend the following strategic steps:
 
-* **Audit Outpatient Triage:** Investigate the high mortality rate in the Outpatient department. [cite_start]Implementing a prioritization system can help catch critical cases early. 
-***Support Underperforming Facilities:** Provide operational support to hospitals with lower discharge rates, like **Central Hospital Benin**, to improve patient flow. 
-* [cite_start]**Optimize Bed Turnover:** Review procedures at hospitals with high **Average Length of Stay** to ensure beds are being freed up efficiently for new patients. 
-* [cite_start]**Regional Resource Allocation:** Direct additional medical supplies and staff to **Kaduna State** to match the high geographic demand identified in the analysis. 
+ **Audit Outpatient Triage:** Investigate the high mortality rate in the Outpatient department. [cite_start]Implementing a prioritization system can help catch critical cases early. 
+**Support Underperforming Facilities:** Provide operational support to hospitals with lower discharge rates, like **Central Hospital Benin**, to improve patient flow. 
+**Optimize Bed Turnover:** Review procedures at hospitals with high **Average Length of Stay** to ensure beds are being freed up efficiently for new patients. 
+**Regional Resource Allocation:** Direct additional medical supplies and staff to **Kaduna State** to match the high geographic demand identified in the analysis. 
 ## Length of Stay (Bed Occupancy)
 On average, patients stay for about **2.95 days**
 **Asaba General Hospital** has the longest stays (over 3.2 days), which indicates their beds stay full longer than other hospitals.
