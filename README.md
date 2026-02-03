@@ -8,6 +8,8 @@ This project was completed as part of a qualifying assessment for an Internship 
 ##  Tools Used
 * **Excel:** Data Cleaning, PivotTables, Advanced Formulas (IFERROR, VLOOKUP), and Conditional Formatting.
 * **Data Visualization:** Clustered Bar Charts, Map Charts, and Interactive Slicers.
+![Public Hospital Utilization Dashboards](https://github.com/user-attachments/assets/4bb5a5d0-0438-4941-b8ba-8b02698bbb06)
+
 
 ##  Key Findings & Insights
 
