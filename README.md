@@ -55,4 +55,4 @@ To explore this project, I recommend following these steps:
 
 1.  **Review the Report**: Start with the **Analytical Report** to get a quick summary of the project’s purpose, the data findings, and the final conclusions.
 2.  **Explore the Data**: Open the **Excel file** to investigate the raw data, formulas, and play around with the interactive dashboard slicers to see the results for yourself.
-3.  3. **View the Visuals**: Check the **Dashboard Preview** above to see how I visualized the hospital performance data.
+3.  **View the Visuals**: Check the **Dashboard Preview** above to see how I visualized the hospital performance data.
