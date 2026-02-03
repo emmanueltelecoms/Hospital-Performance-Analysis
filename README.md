@@ -41,3 +41,18 @@ On average, patients stay for about **2.95 days**
 
 ## Conclusion
 This project proves that data can help hospital managers make better decisions. By looking at these charts, a manager can see exactly which hospital needs more staff, which department needs better equipment, and where patients are waiting too long.
+
+## Project Files and Documents
+
+This repository contains all the files used to perform the analysis:
+
+* **Public_Hospital_Utilization_Analysis_and_Dashboard.xlsx**: This is the main Excel file containing the raw data, the data cleaning process, Pivot Tables, and the interactive dashboard with dynamic visuals.
+* **Public_Hospital_Performance_Report.docx**: A formal analytical report that explains the project goals, key findings, and strategic recommendations in detail.
+
+## Get Started
+
+To explore this project, I recommend following these steps:
+
+1.  **Review the Report**: Start with the **Analytical Report** to get a quick summary of the project’s purpose, the data findings, and the final conclusions.
+2.  **Explore the Data**: Open the **Excel file** to investigate the raw data, formulas, and play around with the interactive dashboard slicers to see the results for yourself.
+3.  3. **View the Visuals**: Check the **Dashboard Preview** above to see how I visualized the hospital performance data.
